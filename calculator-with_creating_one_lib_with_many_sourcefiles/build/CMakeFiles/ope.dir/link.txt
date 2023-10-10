@@ -1,0 +1,2 @@
+/usr/bin/ar qc libope.a CMakeFiles/ope.dir/src/sum.cpp.o CMakeFiles/ope.dir/src/mult.cpp.o CMakeFiles/ope.dir/src/sub.cpp.o CMakeFiles/ope.dir/src/div.cpp.o
+/usr/bin/ranlib libope.a

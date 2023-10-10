@@ -1,0 +1,4 @@
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/shared and static library/build/CMakeFiles/ope.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/shared and static library/build/CMakeFiles/opera.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/shared and static library/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/shared and static library/build/CMakeFiles/rebuild_cache.dir

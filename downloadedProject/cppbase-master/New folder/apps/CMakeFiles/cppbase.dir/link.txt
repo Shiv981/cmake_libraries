@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cppbase.dir/cppbase.cpp.o -o cppbase  ../src/libcppbase_lib.a 

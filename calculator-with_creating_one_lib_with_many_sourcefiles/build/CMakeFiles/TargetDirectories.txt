@@ -1,0 +1,4 @@
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_creating_one_lib_with_many_sourcefiles/build/CMakeFiles/ope.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_creating_one_lib_with_many_sourcefiles/build/CMakeFiles/calculator.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_creating_one_lib_with_many_sourcefiles/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_creating_one_lib_with_many_sourcefiles/build/CMakeFiles/rebuild_cache.dir

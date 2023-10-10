@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculator.dir/src/main.cpp.o -o calculator  -Wl,-rpath,"/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator_with_daynamic_library/build" libsum.so libsub.so libmult.so libdiv.so 

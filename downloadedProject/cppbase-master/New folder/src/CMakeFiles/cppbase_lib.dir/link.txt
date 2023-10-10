@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcppbase_lib.a CMakeFiles/cppbase_lib.dir/factorial.cpp.o
+/usr/bin/ranlib libcppbase_lib.a

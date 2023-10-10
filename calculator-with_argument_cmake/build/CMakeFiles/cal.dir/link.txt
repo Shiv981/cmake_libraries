@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cal.dir/src/main.cpp.o -o cal  -Wl,-rpath,"/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_argument_cmake" ../liboperations.so 

@@ -1,0 +1,3 @@
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_argument_cmake/CMakeFiles/cal.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_argument_cmake/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/stuff/project with cmake/calculator-with_argument_cmake/CMakeFiles/rebuild_cache.dir

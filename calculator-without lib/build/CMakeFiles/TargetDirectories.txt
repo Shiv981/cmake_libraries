@@ -1,0 +1,7 @@
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/sum.dir
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/mult.dir
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/sub.dir
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/div.dir
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/calculator.dir
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/calculator-without lib/build/CMakeFiles/rebuild_cache.dir

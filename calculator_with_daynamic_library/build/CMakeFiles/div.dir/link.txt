@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libdiv.so -o libdiv.so CMakeFiles/div.dir/src/div.cpp.o 

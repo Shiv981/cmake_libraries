@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/final.dir/main.cpp.o CMakeFiles/final.dir/Admin.cpp.o CMakeFiles/final.dir/student.cpp.o CMakeFiles/final.dir/addRecord.cpp.o CMakeFiles/final.dir/removeRecord.cpp.o CMakeFiles/final.dir/viewRecord.cpp.o CMakeFiles/final.dir/clearScreenFunction.cpp.o -o final 

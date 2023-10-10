@@ -1,0 +1,10 @@
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/CMakeFiles/uninstall.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/src/CMakeFiles/cppbase_lib.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/apps/CMakeFiles/cppbase.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/apps/CMakeFiles/helloWorld.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/apps/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shiv Pathak/Desktop/downloadedProject/cppbase-master/builds/apps/CMakeFiles/rebuild_cache.dir
